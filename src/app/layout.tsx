@@ -5,7 +5,7 @@ import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { AppRouterCacheProvider } from '@mui/material-nextjs/v14-appRouter';
 
-import Navbar from '@/components/common/Navbar';
+// import Navbar from '@/components/common/Navbar';
 // import Footer from '@/components/common/Footer';
 
 // Updated theme with colors matching the reference site
